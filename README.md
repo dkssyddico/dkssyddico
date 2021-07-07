@@ -15,5 +15,5 @@ My name is Hyemin Chae 👩🏻‍💻
 
 
 
-![dkssyddico's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkssyddico&theme=ayu-mirage&show_icons=true)
-
+<!-- ![dkssyddico's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkssyddico&theme=ayu-mirage&show_icons=true)
+ -->
