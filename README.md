@@ -11,6 +11,7 @@ My name is Hyemin Chae 👩🏻‍💻
 ![CSS3](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EFD81D?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-#000000?style=flat-square&logo=Node.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 
